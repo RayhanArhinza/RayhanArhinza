@@ -54,8 +54,6 @@
 
 <div align="center">
 
-```html
-<!-- Animated Tech Icons (menggunakan skill-icons dari l2oss) -->
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,laravel,php,python,mysql,figma,ai,canva,git,github,vscode&perline=8&theme=dark" /><br><br>
 
 <!-- Animated glowing border -->
