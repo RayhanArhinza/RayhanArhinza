@@ -25,7 +25,7 @@
   <a href="https://linkedin.com/in/rayhansanevalarhinza">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:rayhansaneval03@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -42,7 +42,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 </details>
 
@@ -69,36 +68,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌌 3D Animated Portfolio
-Immersive portfolio with Three.js parallax effects
-- ✨ Interactive 3D code-sky background
-- 🎭 Smooth scroll animations
-- 📱 Fully responsive design
-
-[View Demo →](#)
-
-</td>
-<td width="50%">
-
-### 📊 Trading Dashboard
-Real-time data visualization with LSTM
-- 📈 Live market data charts
-- 🤖 ML price predictions
-- 🎯 Custom indicators
-
-[View Repo →](#)
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📊 GitHub Statistics
 
