@@ -91,12 +91,10 @@
 
 <br>
 
-<!-- Spotify Playing (optional, aktifkan kalau mau) -->
-<!-- 
+
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=novatorem" />
-</p>
--->
+</p> 
 
 <!-- Glowing ending -->
 <div align="center">
