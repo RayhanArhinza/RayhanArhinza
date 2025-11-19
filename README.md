@@ -1,62 +1,79 @@
+buat agar lebih banyak animasi lagi!
+ 
 <div align="center">
-
-<!-- Neon Glow Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A277FF&background=0D111700&center=true&vCenter=true&width=1000&height=100&lines=Hi+👋,+I'm+Rayhan+Saneval+Arhinza!;Junior+Web+Programmer+💻;UI%2FUX+Designer+🎨;Digital+Illustrator+%7C+Photographer+📸;Turning+coffee+into+code+☕→🚀" alt="Typing SVG" />
-
-<!-- Floating Profile Views + Followers with glow animation -->
-<br>
-<a href="https://github.com/RayhanArhinza">
-  <img src="https://komarev.com/ghpvc/?username=RayhanArhinza&label=Profile%20Views&color=A277FF&style=flat-square" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/github/followers/RayhanArhinza?label=Followers&style=social" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/RayhanArhinza?label=Stars&color=A277FF&style=flat-square" />
-
-<!-- Waving hand animation -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-
+ 
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Rayhan+Saneval+Arhinza;Junior+Web+Programmer+%7C+UI%2FUX+Designer;Digital+Illustrator+%7C+Photographer" alt="Typing SVG" />
 </div>
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="80><br>
-  🚀 Full-Stack Enthusiast & Creative Developer
-</h2>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RayhanArhinza&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/RayhanArhinza?label=Followers&style=social" alt="followers" />
+</p>
 ---
-
-## 🌐 Connect with Me (dengan hover glow + bounce)
-
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://instagram.com/rayhansaneval">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-         onmouseover="this.style.transform='translateY(-5px) scale(1.1)'; this.style.boxShadow='0 0 30px #E4405F'"
-         onmouseout="this.style.transform=''; this.style.boxShadow=''"
-         style="transition:all 0.4s ease;"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://linkedin.com/in/rayhansanevalarhinza">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-         onmouseover="this.style.transform='translateY(-5px) scale(1.1)'; this.style.boxShadow='0 0 30px #0077B5'"
-         onmouseout="this.style.transform=''; this.style.boxShadow=''"
-         style="transition:all 0.4s ease;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:rayhansaneval03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-         onmouseover="this.style.transform='translateY(-5px) scale(1.1)'; this.style.boxShadow='0 0 30px #D14836'"
-         onmouseout="this.style.transform=''; this.style.boxShadow=''"
-         style="transition:all 0.4s ease;"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
 ---
-
-## 💻 Tech Stack (dengan shimmer + floating animation)
-
+## 💻 Tech Stack
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+</details>
+<details open>
+<summary><b>⚙️ Backend & Tools</b></summary>
+<br/>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</details>
+<details open>
+<summary><b>🎨 Design & Creative</b></summary>
+<br/>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+</details>
+---
+## 📊 GitHub Statistics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RayhanArhinza&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RayhanArhinza&theme=radical&hide_border=true&background=0D1117&ring=A277FF&fire=A277FF&currStreakLabel=A277FF" />
+</p>
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayhanArhinza&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&langs_count=8" />
+</p>
+---
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RayhanArhinza&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="trophy" />
+</p>
+---
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RayhanArhinza&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
+---
+## 💡 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
+---
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,laravel,php,python,mysql,figma,ai,canva,git,github,vscode&perline=8&theme=dark" /><br><br>
-
-<!-- Animated glowing border -->
-<div style="padding:20px; border-radius:20px; background:linear-gradient(45deg,#A277FF,#7E3CFF); background-size:400% 400%; animation:gradient 6s ease infinite; box-shadow:0 0 30px #A277FF50;">
-  <img src="https://streak-stats.demolab.com?user=RayhanArhinza&theme=tokyonight-light&hide_border=true&border_radius=15&background=0D1117&ring=A277FF&fire=A277FF&currStreakNum=A277FF&sideNums=A277FF&currStreakLabel=A277FF&sideLabels=A277FF&dates=A277FF" />
+### ✨ Show some ❤️ by starring some repositories!
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+**Made with 💜 by Rayhan** • *Keep learning, keep shipping* 🚀
 </div>
