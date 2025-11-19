@@ -12,15 +12,6 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-### 👨‍💻 About Me
-
-- 🔭 Currently building an **animated 3D portfolio** with Three.js & Tailwind CSS
-- 🌱 Learning **real-time data visualization** & LSTM for trading projects
-- 🎨 Creating **digital illustrations** and pixel art in my free time
-- 💡 Passionate about **clean UI/UX** and interactive experiences
-- ⚡ Fun fact: I ship code faster than I ship packages
 
 <br clear="right"/>
 
